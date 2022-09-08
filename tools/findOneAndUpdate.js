@@ -1,6 +1,6 @@
 const Person = require('../models/person')
 
-async function findOneAndUpdate(name ,age) {
+async function findOneAndUpdate(name, age) {
     // this function take name as an argument
     // this function find one persons matching the name on people collection
     // then update age to 20 years old

@@ -71,12 +71,12 @@ connectDb();
 // findPersonById("61b001998deeec881107bc57");
 
 
-// findByIdUpdate("61b001998deeec881107bc57")
+// findByIdUpdate("61b001998deeec881107bc57","chesse burger")
 
 
 
 
-// findOneAndUpdate(sherif, 28 )
+// findOneAndUpdate("sherif", 28 )
 
   
 
